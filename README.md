@@ -68,31 +68,31 @@ I enjoy working on **complex products**, **real-time systems**, and
 
 # 🧩 Services I Can Build
 
-## Web Applications
+🌐 Web Applications
 
--   Scalable **React / Next.js applications**
--   High‑performance **dashboard systems**
--   **SaaS platforms**
+🚀 Scalable React / Next.js applications
+📊 High-performance dashboard systems
+💼 SaaS platforms
 
-## Mobile Applications
+📱 Mobile Applications
 
--   **React Native mobile apps**
--   Real‑time **video / chat applications**
--   Cross‑platform production mobile apps
+📲 React Native mobile apps
+🎥 Real-time video / chat applications
+⚡ Cross-platform production apps
 
-## Backend Systems
+⚙️ Backend Systems
 
--   **REST APIs with Node.js / NestJS**
--   **Authentication systems (JWT + Refresh Tokens)**
--   **Forum / Social platform APIs**
--   **Scalable backend architecture**
+🔐 JWT + Refresh Token authentication systems
+🧩 REST APIs with Node.js / NestJS
+💬 Forum / Social platform APIs
+🚀 Scalable backend architecture
 
-## System Design
+🧠 System Design
 
--   API architecture
--   Scalable backend design
--   Microservice systems
--   Performance optimization
+🏗 API architecture
+📈 Scalable backend design
+🧩 Microservice systems
+⚡ Performance optimization
 
 ------------------------------------------------------------------------
 
