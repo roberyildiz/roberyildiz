@@ -110,8 +110,8 @@ I enjoy working on **complex products**, **real-time systems**, and
 
 # 🌐 Let's Connect
 
--   GitHub: https://github.com/yourusername
--   LinkedIn: https://linkedin.com/in/yourprofile
+-   GitHub: https://github.com/roberyildiz
+-   LinkedIn: https://www.linkedin.com/in/roberyildiz/
 
 ------------------------------------------------------------------------
 
