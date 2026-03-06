@@ -32,31 +32,29 @@ I enjoy working on **complex products**, **real-time systems**, and
 -   TypeScript
 -   JavaScript (ES6+)
 -   Redux / Zustand
--   Tailwind CSS / Styled Components
 
 ## Backend
 
 -   Node.js
 -   Express.js
 -   NestJS
+-   .Net Framework
+-   .Net Core
 
 ## Database & ORM
 
+-   MongoDB
+-   MSSQL
 -   PostgreSQL
 -   Prisma ORM
 -   Redis
 
-## Authentication & Security
-
--   JWT Authentication
--   Refresh Token Architecture
--   Argon2 Password Hashing
-
 ## Realtime / Communication
 
+-   SignalR
 -   WebSockets
 -   WebRTC
--   Video & Chat integrations (Zego)
+-   Video & Chat integrations (Zego,Agora,Zoom)
 
 ## DevOps & Tools
 
